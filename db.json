@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "phone": "9284662053",
+      "name": "mangal",
+      "city": "chandrapur",
+      "id": 1
+    },
+    {
+      "phone": "9699570211",
+      "name": "nikita",
+      "city": "nagpur",
+      "id": 2
+    },
+    {
+      "phone": "9345253030",
+      "name": "gaurav",
+      "city": "yavatmal",
+      "id": 3
+    },
+    {
+      "phone": "9158833829",
+      "name": "ravi",
+      "city": "ahilya nagar",
+      "id": 4
+    }
+  ]
+}
